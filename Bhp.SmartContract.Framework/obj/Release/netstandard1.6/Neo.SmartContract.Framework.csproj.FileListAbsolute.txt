@@ -1,0 +1,7 @@
+D:\BHP\neo-devpack-dotnet\Neo.SmartContract.Framework\bin\Release\netstandard1.6\Neo.SmartContract.Framework.deps.json
+D:\BHP\neo-devpack-dotnet\Neo.SmartContract.Framework\bin\Release\netstandard1.6\Neo.SmartContract.Framework.dll
+D:\BHP\neo-devpack-dotnet\Neo.SmartContract.Framework\obj\Release\netstandard1.6\Neo.SmartContract.Framework.csprojResolveAssemblyReference.cache
+D:\BHP\neo-devpack-dotnet\Neo.SmartContract.Framework\obj\Release\netstandard1.6\Neo.SmartContract.Framework.csproj.CoreCompileInputs.cache
+D:\BHP\neo-devpack-dotnet\Neo.SmartContract.Framework\obj\Release\netstandard1.6\Neo.SmartContract.Framework.AssemblyInfoInputs.cache
+D:\BHP\neo-devpack-dotnet\Neo.SmartContract.Framework\obj\Release\netstandard1.6\Neo.SmartContract.Framework.AssemblyInfo.cs
+D:\BHP\neo-devpack-dotnet\Neo.SmartContract.Framework\obj\Release\netstandard1.6\Neo.SmartContract.Framework.dll

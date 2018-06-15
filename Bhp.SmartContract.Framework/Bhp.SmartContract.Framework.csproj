@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Copyright>2018 The Bhp Project</Copyright>
+    <AssemblyTitle>Bhp.SmartContract.Framework</AssemblyTitle>
+    <Version>1.0.0</Version>
+    <Authors>The Bhp Project</Authors>
+    <TargetFrameworks>netstandard1.6;net40</TargetFrameworks>
+    <AssemblyName>Bhp.SmartContract.Framework</AssemblyName>
+    <PackageId>Bhp.SmartContract.Framework</PackageId>
+    <PackageTags>BHP;Blockchain;Smart Contract;VM</PackageTags>
+    <PackageProjectUrl>https://github.com/BHPCash/bhp-devpack-dotnet</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/BHPCash/bhp-devpack-dotnet.git</RepositoryUrl>
+    <NetStandardImplicitPackageVersion Condition=" '$(TargetFramework)' == 'netstandard1.6' ">1.6.0</NetStandardImplicitPackageVersion>
+    <Company>The Bhp Project</Company>
+    <Description>Bhp.SmartContract.Framework</Description>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|netstandard1.6|AnyCPU'">
+    <DefineConstants>RELEASE;NETSTANDARD1_6</DefineConstants>
+    <DebugType>none</DebugType>
+    <DebugSymbols>False</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'net40' ">
+    <Reference Include="System" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+
+</Project>

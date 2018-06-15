@@ -1,0 +1,9 @@
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\bin\Debug\netstandard1.6\Bhp.SmartContract.Framework.deps.json
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\bin\Debug\netstandard1.6\Bhp.SmartContract.Framework.dll
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\bin\Debug\netstandard1.6\Bhp.SmartContract.Framework.pdb
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Debug\netstandard1.6\Bhp.SmartContract.Framework.csproj.CoreCompileInputs.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Debug\netstandard1.6\Bhp.SmartContract.Framework.AssemblyInfoInputs.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Debug\netstandard1.6\Bhp.SmartContract.Framework.AssemblyInfo.cs
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Debug\netstandard1.6\Bhp.SmartContract.Framework.dll
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Debug\netstandard1.6\Bhp.SmartContract.Framework.pdb
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Debug\netstandard1.6\Bhp.SmartContract.Framework.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\BHP\bhp-devpack-dotnet\Template.CSharp\bin\Release\ProjectTemplates\CSharp\1033\Template.CSharp.zip
+D:\BHP\bhp-devpack-dotnet\Template.CSharp\obj\Release\Template.CSharp.csproj.CoreCompileInputs.cache
+D:\BHP\bhp-devpack-dotnet\Template.CSharp\obj\Release\CSharp\1033\Template.CSharp.zip
+D:\BHP\bhp-devpack-dotnet\Template.CSharp\obj\Release\Bhp.SmartContract.Template.CSharp.dll
+D:\BHP\bhp-devpack-dotnet\Template.CSharp\obj\Release\Bhp.SmartContract.Template.CSharp.pdb

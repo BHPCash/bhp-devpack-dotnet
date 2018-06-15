@@ -1,0 +1,7 @@
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\bin\Release\netstandard1.6\Bhp.SmartContract.Framework.deps.json
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\bin\Release\netstandard1.6\Bhp.SmartContract.Framework.dll
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Release\netstandard1.6\Bhp.SmartContract.Framework.csprojAssemblyReference.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Release\netstandard1.6\Bhp.SmartContract.Framework.csproj.CoreCompileInputs.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Release\netstandard1.6\Bhp.SmartContract.Framework.AssemblyInfoInputs.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Release\netstandard1.6\Bhp.SmartContract.Framework.AssemblyInfo.cs
+D:\BHP\bhp-devpack-dotnet\Bhp.SmartContract.Framework\obj\Release\netstandard1.6\Bhp.SmartContract.Framework.dll
