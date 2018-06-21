@@ -1,6 +1,0 @@
-D:\BHP\bhp-devpack-dotnet\Installer\bin\Release\Bhp.SmartContract.Installer.vsix
-D:\BHP\bhp-devpack-dotnet\Installer\bin\Release\extension.vsixmanifest
-D:\BHP\bhp-devpack-dotnet\Installer\obj\Release\Installer.csproj.CoreCompileInputs.cache
-D:\BHP\bhp-devpack-dotnet\Installer\obj\Release\Bhp.SmartContract.Installer.dll
-D:\BHP\bhp-devpack-dotnet\Installer\obj\Release\Bhp.SmartContract.Installer.pdb
-D:\BHP\bhp-devpack-dotnet\Installer\obj\Release\extension.vsixmanifest

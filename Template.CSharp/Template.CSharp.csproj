@@ -59,7 +59,9 @@
     <None Include="build.tasks" />
     <None Include="Contract1.cs" />
     <None Include="packages_t.config" />
-    <None Include="ProjectTemplate.csproj" />
+    <None Include="ProjectTemplate.csproj">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Template.CSharp.ico" />
   </ItemGroup>
   <ItemGroup>
