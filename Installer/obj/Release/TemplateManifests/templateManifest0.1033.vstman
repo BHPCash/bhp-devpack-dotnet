@@ -1,0 +1,21 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>CSharp\1033\Template.CSharp</RelativePathOnDisk>
+    <TemplateFileName>Template.CSharp.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>BhpContract</Name>
+        <Description>BhpContract</Description>
+        <Icon>Template.CSharp.ico</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>d9130218-33d0-46aa-a161-8fcf225bf758</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>BhpContract</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

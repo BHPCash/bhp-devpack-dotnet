@@ -2,7 +2,7 @@
 using Microsoft.Build.Utilities;
 using System.Diagnostics;
 
-namespace Bhp.ConvertTask
+namespace Bhp
 {
     public class ConvertTask :Task
     {

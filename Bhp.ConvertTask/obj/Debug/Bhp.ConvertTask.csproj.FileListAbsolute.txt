@@ -1,0 +1,6 @@
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Debug\Bhp.ConvertTask.dll
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Debug\Bhp.ConvertTask.pdb
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Debug\Bhp.ConvertTask.csprojResolveAssemblyReference.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Debug\Bhp.ConvertTask.csproj.CoreCompileInputs.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Debug\Bhp.ConvertTask.dll
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Debug\Bhp.ConvertTask.pdb

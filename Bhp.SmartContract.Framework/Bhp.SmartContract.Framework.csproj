@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Copyright>2018 The Bhp Project</Copyright>
     <AssemblyTitle>Bhp.SmartContract.Framework</AssemblyTitle>
-    <Version>1.0.0</Version>
+    <Version>1.0.3</Version>
     <Authors>The Bhp Project</Authors>
     <TargetFrameworks>netstandard1.6;net40</TargetFrameworks>
     <AssemblyName>Bhp.SmartContract.Framework</AssemblyName>
@@ -15,7 +15,8 @@
     <NetStandardImplicitPackageVersion Condition=" '$(TargetFramework)' == 'netstandard1.6' ">1.6.0</NetStandardImplicitPackageVersion>
     <Company>The Bhp Project</Company>
     <Description>Bhp.SmartContract.Framework</Description>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.0.3</AssemblyVersion>
+    <FileVersion>1.0.3</FileVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|netstandard1.6|AnyCPU'">
@@ -27,6 +28,10 @@
   <ItemGroup Condition=" '$(TargetFramework)' == 'net40' ">
     <Reference Include="System" />
     <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
   </ItemGroup>
 
 </Project>
